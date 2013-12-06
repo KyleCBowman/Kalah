@@ -1,5 +1,4 @@
-
-public class Player {
+public class Player1 {
 
 	public Player()
 	{
