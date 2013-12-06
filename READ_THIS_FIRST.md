@@ -16,6 +16,6 @@ Things that still need implementing (put your name next to a task if you want to
 Looping the game 1000 times (Josh)
 
 Adding a getCounters method in the Board class that takes an integer for the board position and returns the number of
-counters in that space as an integer ()
+counters in that space as an integer (Jack)
 
 Adding java doc ()
