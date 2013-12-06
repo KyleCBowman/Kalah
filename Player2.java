@@ -1,4 +1,3 @@
-
 public class Player2 {
 
 	public Player2()
