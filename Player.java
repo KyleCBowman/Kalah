@@ -1,6 +1,6 @@
 public class Player1 {
 
-	public Player()
+	public Player1()
 	{
 		
 	}
