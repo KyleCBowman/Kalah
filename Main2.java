@@ -1,4 +1,3 @@
-
 // TEST CODE, DELETE BEFORE SUBMISSION
 import java.util.Scanner;
 
@@ -14,8 +13,8 @@ public class Main2
 		Board board = new Board();
 		
 		// Initialise players
-		Player player1 = new Player();
-		Player player2 = new Player();
+		Player1 player1 = new Player1();
+		Player2 player2 = new Player2();
 		
 		// If the current move is valid or not
 		boolean validMove;
